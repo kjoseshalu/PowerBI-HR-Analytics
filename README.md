@@ -1,7 +1,7 @@
 # HR Analytics Dashboard using Power BI
 
 
-![App Screenshot](https://github.com/kjoseshalu/PowerBI-HR-Analytics/blob/main/Output%20Image.jpg)
+![image]()
 
 
 ## 📊 Project Overview
