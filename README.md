@@ -1,7 +1,7 @@
 # HR Analytics Dashboard using Power BI
 
 
-![image]()
+![image](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Output.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-05-08T17%3A04%3A27.098Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F308ff2a1482c4c38%2FOutput.png%3FExpires%3D1841418267%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3D2lnH1rz~f1LB4JbwN2IvF7Pv8p1MA4xVlC~YXsjkrG~76PgUQOf19jM0eh6s5j7FGQ6nNKDsPB3pT4R2ETZVRvidBApIkpI6ZeZKcatf9mJiEYO~R46xzX-wJGPe1UopSg-JJNSdT4Es1Kx9gtu10gZdd9ttX9Iift3oC7UmMw8yZ-PsoasiA4uZyqyRQJ3IdpXJYYE6Y4VRzU6WY27BlkiJ0vWXAT0y22LTxq~GZ0iQqWyH5Zh~k2xWRhyEqAsbucFcrHlNWB-7hIB9R8FaULV2lMSPmHDIhBxtZtEFN9kvqbKLtV-5KwoZrSHOrN-1CpoLYMf8Mi9Cx1eMrzOeVQ__%22%7D)
 
 
 ## 📊 Project Overview
